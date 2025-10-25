@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RB\\My Projects\\EcommercAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB12C22-3F32-40CA-BBBF-B7671B7F8E7E}|Inferastructure\\Persentation\\Persentation.csproj|d:\\rb\\my projects\\ecommercappsolution\\inferastructure\\persentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB12C22-3F32-40CA-BBBF-B7671B7F8E7E}|Inferastructure\\Persentation\\Persentation.csproj|solutionrelative:inferastructure\\persentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AC49C6-707A-40AF-8021-1B6A194D67DE}|EcommercApp\\EcommercApp.csproj|d:\\rb\\my projects\\ecommercappsolution\\ecommercapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AC49C6-707A-40AF-8021-1B6A194D67DE}|EcommercApp\\EcommercApp.csproj|solutionrelative:ecommercapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 436,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\RB\\My Projects\\EcommercAppSolution\\Inferastructure\\Persentation\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Inferastructure\\Persentation\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\RB\\My Projects\\EcommercAppSolution\\Inferastructure\\Persentation\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Inferastructure\\Persentation\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAABAPRMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T01:17:06.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\RB\\My Projects\\EcommercAppSolution\\EcommercApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EcommercApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\RB\\My Projects\\EcommercAppSolution\\EcommercApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EcommercApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T03:58:28.579Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

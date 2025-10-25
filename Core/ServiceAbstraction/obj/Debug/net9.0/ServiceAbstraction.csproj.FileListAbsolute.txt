@@ -1,0 +1,16 @@
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\bin\Debug\net9.0\ServiceAbstraction.deps.json
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\bin\Debug\net9.0\ServiceAbstraction.dll
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\bin\Debug\net9.0\ServiceAbstraction.pdb
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\bin\Debug\net9.0\Shared.dll
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\bin\Debug\net9.0\Shared.pdb
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.csproj.AssemblyReference.cache
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.AssemblyInfoInputs.cache
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.AssemblyInfo.cs
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.csproj.CoreCompileInputs.cache
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.sourcelink.json
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\obj\Debug\net9.0\ServiceA.44E702FF.Up2Date
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.dll
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\obj\Debug\net9.0\refint\ServiceAbstraction.dll
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\obj\Debug\net9.0\ServiceAbstraction.pdb
+D:\RB\My Projects\EcommercAppSolution\Core\ServiceAbstraction\obj\Debug\net9.0\ref\ServiceAbstraction.dll
