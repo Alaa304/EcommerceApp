@@ -1,3 +1,9 @@
+D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\Persentation.csproj.AssemblyReference.cache
+D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\Persentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\Persentation.AssemblyInfoInputs.cache
+D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\Persentation.AssemblyInfo.cs
+D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\Persentation.csproj.CoreCompileInputs.cache
+D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\Persentation.sourcelink.json
 D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\bin\Debug\net9.0\Persentation.deps.json
 D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\bin\Debug\net9.0\Persentation.dll
 D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\bin\Debug\net9.0\Persentation.pdb
@@ -5,12 +11,6 @@ D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\bin\Debug\net
 D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\bin\Debug\net9.0\Shared.dll
 D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\bin\Debug\net9.0\ServiceAbstraction.pdb
 D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\bin\Debug\net9.0\Shared.pdb
-D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\Persentation.csproj.AssemblyReference.cache
-D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\Persentation.GeneratedMSBuildEditorConfig.editorconfig
-D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\Persentation.AssemblyInfoInputs.cache
-D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\Persentation.AssemblyInfo.cs
-D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\Persentation.csproj.CoreCompileInputs.cache
-D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\Persentation.sourcelink.json
 D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\Persenta.DF5DDCDF.Up2Date
 D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\Persentation.dll
 D:\RB\My Projects\EcommercAppSolution\Inferastructure\Persentation\obj\Debug\net9.0\refint\Persentation.dll

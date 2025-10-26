@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\RB\\My Projects\\EcommercAppSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D58E012-0B55-467F-B7FF-3C521B43B21E}|Core\\Service\\Service.csproj|d:\\rb\\my projects\\ecommercappsolution\\core\\service\\specifications\\productwithbrandandtypespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D58E012-0B55-467F-B7FF-3C521B43B21E}|Core\\Service\\Service.csproj|solutionrelative:core\\service\\specifications\\productwithbrandandtypespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5AD04F-6C7D-41F1-893B-831B261BBE28}|Shared\\Shared.csproj|d:\\rb\\my projects\\ecommercappsolution\\shared\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5AD04F-6C7D-41F1-893B-831B261BBE28}|Shared\\Shared.csproj|solutionrelative:shared\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0AB12C22-3F32-40CA-BBBF-B7671B7F8E7E}|Inferastructure\\Persentation\\Persentation.csproj|d:\\rb\\my projects\\ecommercappsolution\\inferastructure\\persentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AB12C22-3F32-40CA-BBBF-B7671B7F8E7E}|Inferastructure\\Persentation\\Persentation.csproj|solutionrelative:inferastructure\\persentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33AC49C6-707A-40AF-8021-1B6A194D67DE}|EcommercApp\\EcommercApp.csproj|d:\\rb\\my projects\\ecommercappsolution\\ecommercapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33AC49C6-707A-40AF-8021-1B6A194D67DE}|EcommercApp\\EcommercApp.csproj|solutionrelative:ecommercapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05DC3ACF-2BF9-4594-8874-F82F20E7AC52}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|d:\\rb\\my projects\\ecommercappsolution\\core\\serviceabstraction\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DC3ACF-2BF9-4594-8874-F82F20E7AC52}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:core\\serviceabstraction\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D58E012-0B55-467F-B7FF-3C521B43B21E}|Core\\Service\\Service.csproj|d:\\rb\\my projects\\ecommercappsolution\\core\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D58E012-0B55-467F-B7FF-3C521B43B21E}|Core\\Service\\Service.csproj|solutionrelative:core\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +30,73 @@
       "DocumentGroups": [
         {
           "DockedHeight": 436,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductWithBrandAndTypeSpecifications.cs",
+              "DocumentMoniker": "D:\\RB\\My Projects\\EcommercAppSolution\\Core\\Service\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "RelativeDocumentMoniker": "Core\\Service\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "ToolTip": "D:\\RB\\My Projects\\EcommercAppSolution\\Core\\Service\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "RelativeToolTip": "Core\\Service\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:33:28.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductQueryParams.cs",
+              "DocumentMoniker": "D:\\RB\\My Projects\\EcommercAppSolution\\Shared\\ProductQueryParams.cs",
+              "RelativeDocumentMoniker": "Shared\\ProductQueryParams.cs",
+              "ToolTip": "D:\\RB\\My Projects\\EcommercAppSolution\\Shared\\ProductQueryParams.cs",
+              "RelativeToolTip": "Shared\\ProductQueryParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:30:45.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\RB\\My Projects\\EcommercAppSolution\\Inferastructure\\Persentation\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Inferastructure\\Persentation\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\RB\\My Projects\\EcommercAppSolution\\Inferastructure\\Persentation\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Inferastructure\\Persentation\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:26:43.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\RB\\My Projects\\EcommercAppSolution\\Core\\ServiceAbstraction\\IProductService.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceAbstraction\\IProductService.cs",
+              "ToolTip": "D:\\RB\\My Projects\\EcommercAppSolution\\Core\\ServiceAbstraction\\IProductService.cs",
+              "RelativeToolTip": "Core\\ServiceAbstraction\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:20:08.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\RB\\My Projects\\EcommercAppSolution\\Core\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Core\\Service\\ProductService.cs",
+              "ToolTip": "D:\\RB\\My Projects\\EcommercAppSolution\\Core\\Service\\ProductService.cs",
+              "RelativeToolTip": "Core\\Service\\ProductService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAtwBwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:35:17.291Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
@@ -35,31 +112,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\RB\\My Projects\\EcommercAppSolution\\Inferastructure\\Persentation\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Inferastructure\\Persentation\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\RB\\My Projects\\EcommercAppSolution\\Inferastructure\\Persentation\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Inferastructure\\Persentation\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAABAPRMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T01:17:06.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\RB\\My Projects\\EcommercAppSolution\\EcommercApp\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "EcommercApp\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\RB\\My Projects\\EcommercAppSolution\\EcommercApp\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "EcommercApp\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T03:58:28.579Z"
             }
           ]
         },

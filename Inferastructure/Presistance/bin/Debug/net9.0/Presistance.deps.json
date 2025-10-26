@@ -604,6 +604,7 @@
         "dependencies": {
           "AutoMapper": "15.0.1",
           "DomainLayer": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "9.0.10",
           "Microsoft.Extensions.Configuration": "9.0.10",
           "ServiceAbstraction": "1.0.0"
         },
